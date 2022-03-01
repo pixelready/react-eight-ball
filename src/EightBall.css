@@ -1,0 +1,11 @@
+.eightball-button{
+    font-family: 'futura',sans-serif;
+    border-radius:50%;
+    padding: 30px;
+    color:white;
+    font-weight: bold;
+    border:0;
+    height: 400px;
+    width: 400px;
+    font-size: 36px;
+}
